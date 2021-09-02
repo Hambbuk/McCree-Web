@@ -18,7 +18,6 @@ function App() {
 <Button primary> 고양이 </Button>
 <Button primary> 강아지 </Button>
 <Button primary> 고래 </Button>
-<Progress percent = {66} />
 </div>
   );
 }
